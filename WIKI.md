@@ -141,4 +141,7 @@ oraz bezpośrednio pobrany z repozytorium przy użyciu polecenia:
 Obraz w repozytorium obrazów:\
 https://hub.docker.com/r/zukerr/mythicteamoptimiser
 
-Przykładowe dane znajdują się w folderze data.
+Całość projektu w repozytorium na github.com:\
+https://github.com/zukerr/mythic-team-optimizer-demo
+
+Przykładowe dane znajdują się w folderze data/raw_json_examples.
