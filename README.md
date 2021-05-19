@@ -19,4 +19,4 @@ Szczegółowy opis usługi można znaleźć w wiki tego projektu.
 
 Niniejszy algorytm wraz z usługą zostały stworzone w ramach laboratorium z rozproszonych systemów informatycznych 
 Wydziału Informatyki i Zarządzania Politechniki Wrocławskiej. 
-Szczegóły licencji na jakiej ten projekt został udostępniony można znaleźć w pliku LICENSE.
+Szczegóły licencji na jakiej ten projekt został udostępniony można znaleźć w pliku LICENSE(licencja nie dotyczy silnika Unity).
